@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "GitHub Codespaces",
     description:
-      "Video interview to explain when to use GitHub",
+      "Video interview to explain when to use GitHubb",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
